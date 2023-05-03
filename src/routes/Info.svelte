@@ -42,16 +42,16 @@
 			{/each}
 			<a
 				id="download"
-				href={process.env.PATH + "/Ariel_Lara_Pedraza_CV_Nov_2022.pdf"}
+				href={process.env.PATH + "/Ariel_Lara_Pedraza_CV_Feb_2023.pdf"}
 				>{download}</a
 			>
 			<span id="download-legend">{legend}</span>
 			<div id="social-media">
 				<a href="mailto:drkyofficial@gmail.com" id="to-mail">
-					<i class="fas fa-envelope  fa-xs" />
+					<i class="fas fa-envelope fa-xs" />
 				</a>
 				<a href="https://github.com/DRKY99" id="to-github">
-					<i class="fab fa-github fa-xs " />
+					<i class="fab fa-github fa-xs" />
 				</a>
 				<a href="https://www.linkedin.com/in/drky/" id="to-linkedin">
 					<i class="fab fa-linkedin fa-xs" />
