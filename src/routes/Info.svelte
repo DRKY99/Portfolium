@@ -42,7 +42,7 @@
 			{/each}
 			<a
 				id="download"
-				href={process.env.PATH + "/Ariel_Lara_Pedraza_CV_Feb_2023.pdf"}
+				href={process.env.PATH + "/Ariel_Lara_Pedraza_CV_May_2023.pdf"}
 				>{download}</a
 			>
 			<span id="download-legend">{legend}</span>
