@@ -23,16 +23,16 @@
 		{
 			"key": 2,
 			"title": "DIINCO",
-			"subtitle": "Development/Operations Leader",
+			"subtitle": "FullStack Engineer - Security SysAdmin",
 			"image": "__root_path/images/diinco.png",
 			"description": "DIINCO is a startup that provides web-based management tools for infrastructure projects. I have collaborate on this project as full stack engineer since the team foundation. Nowadays, I'm collaborating with the team providing trainings to new members, integrating security implementations at company level. Also, on services operations and management.",
-			"date": "2021 - 2022",
+			"date": "2020 - 2022",
 			"link": "diinco.com",
 			"alias": "DIINCO",
 			"roles": [
 				"FullstackEngineer",
 				"DevelopmentLeader",
-				"SecurityPlanning"
+				"SecuritySysAdmin"
 			]
 		},
 		{
